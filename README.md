@@ -186,7 +186,7 @@ insurance-cost-prediction/
 ## 👩‍💻 Author
 
 **Reeda Shaikh**
-BTech student in AI and Data Science
+
 
 - GitHub: [sirrida000](https://github.com/sirrida000)
 - LinkedIn: [linkedin.com/in/reeda-s-11914a42b](https://linkedin.com/in/reeda-s-11914a42b)
