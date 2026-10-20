@@ -18,6 +18,19 @@ This is a **regression** problem, because the model predicts a number (the charg
 
 ---
 
+## 🖥️ Streamlit App
+
+🔗 Try it live: https://insurancecostestimater-gzqi4xedq8tvb2a9pxkuhz.streamlit.app/
+
+The app lets a user enter patient details and get an instant estimate:
+
+1. Sliders and buttons for age, sex, BMI, children, smoker and region
+2. An Estimate charges button
+3. The predicted annual charge shown as a large number
+4. A bar chart comparing the prediction with the average non-smoker and average smoker charges
+
+---  
+
 ## 📊 Dataset
 
 - **File:** `medical_insurance.csv`
